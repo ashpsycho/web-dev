@@ -1,0 +1,22 @@
+To-do list:-
+Login page
+Add to database from table
+Retrieve from database to table
+make a table with sorting options
+color the table according to data
+Make graphs using table
+add zoom to graph
+
+Tree API
+Build trees using hierarchies
+
+Scheduler API with notifications
+Find locations using Map API
+Find time using MAP API
+
+Map API
+Add points to map
+MAP+TREE API
+
+Web Crawler
+Yellow pages
