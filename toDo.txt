@@ -1,5 +1,5 @@
 To-do list:-
-Login page
+Login page (basically Spring security)
 Add to database from table
 Retrieve from database to table
 make a table with sorting options
